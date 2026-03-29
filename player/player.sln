@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "player", "player\player.pyproj", "{F4D6E5E4-AD8A-45B4-BEF0-F42E11BC209A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D6E5E4-AD8A-45B4-BEF0-F42E11BC209A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D6E5E4-AD8A-45B4-BEF0-F42E11BC209A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8715687F-79A4-4E9F-AC5B-12679562525E}
+	EndGlobalSection
+EndGlobal
