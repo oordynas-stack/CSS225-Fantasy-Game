@@ -3,7 +3,7 @@ class Player:
         self.name = name
         self.has_passphrase = False
         self.status = "Healthy"
-        self.inventory = [] # Added this list
+        self.inventory = []
 
     def add_item(self, item):
         self.inventory.append(item)
