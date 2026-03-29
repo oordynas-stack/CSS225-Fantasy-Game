@@ -21,5 +21,5 @@ The program traverses a series of modular steps, generating code in each one and
 (chapter1.py through chapter5.py).
 
 HOW TO START THE GAME:
-1. Put all .py files in the same directory.
-2. Run 'python main.py' from the terminal.
+1. Make sure all .py files in the same directory.
+2. Run 'python main.py' using Python application.
